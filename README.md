@@ -81,12 +81,9 @@ Alternatively, manually execute the script by following the steps below:
 
 This script is tested on these operating system
 
-1. Kali Linux
-2. Parrot Linux
-3. Termux (find Instagram user is not working currently)
-4. Garuda Linux
-5. Ubuntu
-6. *Arch Linux* 
+**1. Leading Linux Distro (Kali , Parrot , Garuda , Arch)**
+**2. Termux (find Instagram user is not working currently)**
+
 
 # Contribution
 

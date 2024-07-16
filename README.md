@@ -68,7 +68,7 @@ Alternatively, manually execute the script by following the steps below:
    ```
 4. Install the requirements:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt or uv -r requierments.txt
    ```
 5. Run the script:
    ```bash
@@ -81,8 +81,8 @@ Alternatively, manually execute the script by following the steps below:
 
 This script is tested on these operating system
 
-**1. Leading Linux Distro (Kali , Parrot , Garuda , Arch)**
-**2. Termux (find Instagram user is not working currently)**
+-**1. Leading Linux Distro (Kali , Parrot , Garuda , Arch)**
+-**2. Termux (find Instagram user is not working currently)**
 
 
 # Contribution

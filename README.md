@@ -68,7 +68,7 @@ Alternatively, manually execute the script by following the steps below:
    ```
 4. Install the requirements:
    ```bash
-   pip install -r requirements.txt or uv -r requierments.txt
+   pip install -r requirements.txt or uv  install -r requierments.txt
    ```
 5. Run the script:
    ```bash

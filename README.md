@@ -29,8 +29,8 @@
 
 6. **Email Lookup**
    - Check if an email address has been involved in any data breaches using the Have I Been Pwned API.
-
-
+7. **Global Access**
+   - Now you can Run the Script from anywhere using the Linux OS
 ## Disclaimer
 
 **Disclaimer:** Deadshot0x7 will not be responsible if you misuse the script. By using the script, you acknowledge that you will be responsible for any loss you incur.
@@ -74,6 +74,8 @@ Alternatively, manually execute the script by following the steps below:
    ```bash
    cd scripts
    python 007-TheBond.py
+   
+   007-TheBond.py ( Linux Supportted only ) 
    ```
 6. Enter the username/phone number/IP address/keyword you want to search for.
 

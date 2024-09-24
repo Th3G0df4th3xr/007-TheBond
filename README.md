@@ -75,7 +75,7 @@ Alternatively, manually execute the script by following the steps below:
    cd scripts
    python 007-TheBond.py
    
-   007-TheBond.py ( Linux Supportted only ) 
+   007-TheBond.py ( Linux Support only ) 
    ```
 6. Enter the username/phone number/IP address/keyword you want to search for.
 
